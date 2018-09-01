@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+
 <html>
 <title>Page views</title>
 <meta charset="UTF-8">
